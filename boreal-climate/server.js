@@ -1,5 +1,5 @@
 // 🌐 Boreal Climate Refrigeração — Servidor principal
-// Desenvolvido por Anderson Seabra e GPT-5
+// Desenvolvido por Anderson Seabra do Nascimento
 
 const express = require("express");
 const path = require("path");
